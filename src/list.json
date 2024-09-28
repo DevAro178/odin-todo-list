@@ -1,0 +1,164 @@
+[
+  {
+    "project": "Project Alpha",
+    "list": [
+      {
+        "title": "Setup project repository",
+        "description": "Initialize the project repository on GitHub",
+        "dueDate": "2023-10-01",
+        "priority": "High",
+        "notes": "Include README and .gitignore",
+        "done": false,
+        "id": "_bulf627p7"
+      },
+      {
+        "title": "Design database schema",
+        "description": "Create an ER diagram for the database",
+        "dueDate": "2023-10-05",
+        "priority": "Medium",
+        "notes": "Use MySQL",
+        "done": false,
+        "id": "_h83hazu2k"
+      },
+      {
+        "title": "Implement authentication",
+        "description": "Add user login and registration functionality",
+        "dueDate": "2023-10-10",
+        "priority": "High",
+        "notes": "Use JWT for authentication",
+        "done": false,
+        "id": "_blqkbeklj"
+      },
+      {
+        "title": "Setup CI/CD pipeline",
+        "description": "Configure continuous integration and deployment",
+        "dueDate": "2023-10-15",
+        "priority": "Medium",
+        "notes": "Use GitHub Actions",
+        "done": false,
+        "id": "_9n3d1h5e2"
+      },
+      {
+        "title": "Write unit tests",
+        "description": "Create unit tests for the main modules",
+        "dueDate": "2023-10-20",
+        "priority": "High",
+        "notes": "Aim for 80% code coverage",
+        "done": false,
+        "id": "_g1asqf33l"
+      }
+    ],
+    "id": "_cfbsh1l5l"
+  },
+  {
+    "project": "Project Beta",
+    "list": [
+      {
+        "title": "Conduct market research",
+        "description": "Analyze the target market and competitors",
+        "dueDate": "2023-10-03",
+        "priority": "High",
+        "notes": "Focus on user needs and pain points",
+        "done": false,
+        "id": "_azkewdilw"
+      },
+      {
+        "title": "Create wireframes",
+        "description": "Design wireframes for the main pages",
+        "dueDate": "2023-10-07",
+        "priority": "Medium",
+        "notes": "Use Figma for design",
+        "done": false,
+        "id": "_offmmq68g"
+      },
+      {
+        "title": "Develop landing page",
+        "description": "Build the landing page for the product",
+        "dueDate": "2023-10-12",
+        "priority": "High",
+        "notes": "Ensure responsive design",
+        "done": false,
+        "id": "_vlq6g80cp"
+      },
+      {
+        "title": "Setup analytics",
+        "description": "Integrate Google Analytics for tracking",
+        "dueDate": "2023-10-17",
+        "priority": "Medium",
+        "notes": "Track user behavior and conversions",
+        "done": false,
+        "id": "_jew9yadfl"
+      },
+      {
+        "title": "Launch marketing campaign",
+        "description": "Start the initial marketing campaign",
+        "dueDate": "2023-10-22",
+        "priority": "High",
+        "notes": "Use social media and email marketing",
+        "done": false,
+        "id": "_yqe9v1dls"
+      }
+    ],
+    "id": "_aqnohg53c"
+  },
+  {
+    "project": "Project Gamma",
+    "list": [
+      {
+        "title": "Setup development environment",
+        "description": "Install necessary tools and dependencies",
+        "dueDate": "2023-10-02",
+        "priority": "High",
+        "notes": "Include Node.js and Docker",
+        "done": false,
+        "id": "_g3wvg90in"
+      },
+      {
+        "title": "Create project documentation",
+        "description": "Write comprehensive documentation for the project",
+        "dueDate": "2023-10-06",
+        "priority": "Medium",
+        "notes": "Include setup and usage instructions",
+        "done": false,
+        "id": "_m41v4bilt"
+      },
+      {
+        "title": "Implement feature X",
+        "description": "Develop and test feature X",
+        "dueDate": "2023-10-11",
+        "priority": "High",
+        "notes": "Ensure it meets the requirements",
+        "done": false,
+        "id": "_z12kd0czt"
+      },
+      {
+        "title": "Optimize performance",
+        "description": "Improve the performance of the application",
+        "dueDate": "2023-10-16",
+        "priority": "Medium",
+        "notes": "Focus on reducing load times",
+        "done": false,
+        "id": "_xerf7v9ff"
+      },
+      {
+        "title": "Prepare for launch",
+        "description": "Finalize all tasks and prepare for the product launch",
+        "dueDate": "2023-10-21",
+        "priority": "High",
+        "notes": "Ensure all features are tested and documented",
+        "done": false,
+        "id": "_efn4v5t9u"
+      },
+      {
+        "title": "Post-launch support",
+        "description": "Provide support and fix any issues post-launch",
+        "dueDate": "2023-10-25",
+        "priority": "High",
+        "notes": "Monitor user feedback and bug reports",
+        "done": false,
+        "id": "_gzcv88wxv"
+      }
+    ],
+    "id": "_e9gtdatfn"
+  }
+]
